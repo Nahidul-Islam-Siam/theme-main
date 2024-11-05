@@ -1,0 +1,2 @@
+[environments.development]
+store = "siam12store.myshopify.com/"
